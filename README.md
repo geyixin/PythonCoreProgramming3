@@ -4,8 +4,9 @@
 
 原书章节
 （以下内容选择性学习）
+
 第一部分
-第1 章——正则表达式
+第1 章——正则表达式（https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapterOne）
 
 第2 章——网络编程
 
@@ -22,6 +23,7 @@
 第8 章——扩展Python
 
 第二部分：Web 开发
+
 第9 章——Web 客户端和服务器
 
 第10 章——Web 编程：CGI 和WSGI
@@ -33,6 +35,7 @@
 第13 章——Web 服务
 
 第三部分：补充/实验章节
+
 第14 章——文本处理
 
 第15 章——其他内容
