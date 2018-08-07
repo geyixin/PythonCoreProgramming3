@@ -6,9 +6,10 @@
 （以下内容选择性学习）
 
 第一部分
-第1 章——正则表达式（https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapterOne ）
 
-第2 章——网络编程
+第1 章——正则表达式（ https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapterOne ）
+
+第2 章——网络编程（ https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapterTwo ）
 
 第3 章——因特网客户端编程
 
