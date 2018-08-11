@@ -9,7 +9,7 @@ from poplib import POP3
 SMTPSVR = 'smtp.python.is.cool'
 POP3SVR = 'pop.python.is.cool'
 
-who = 'geyixin777@163.com'
+who = 'cccccc@163.com'
 body = '''\
 From: %(who)s
 To: %(who)s
@@ -25,7 +25,7 @@ sleep(10)
 
 recvSVR = POP3(POP3SVR)
 recvSVR.user('xiaoming')
-recvSVR.pass_('112358gyx')
+recvSVR.pass_('xxxxxxxxx')
 rsp, msg, siz = recvSVR.retr(recvSVR.stat()[0])
 sep = msg.index('')
 recvBODY = msg[sep+1:]
