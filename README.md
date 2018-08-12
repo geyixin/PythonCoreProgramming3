@@ -11,9 +11,9 @@
 
 第2 章——网络编程（ https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter2 ）
 
-第3 章——因特网客户端编程
+第3 章——因特网客户端编程 （ https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter3 ）
 
-第4 章——多线程编程
+第4 章——多线程编程 （ https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter4 ）
 
 第5 章——GUI 编程
 
