@@ -1,4 +1,4 @@
-# PythonCoreProgramming3
+# [PythonCoreProgramming3](https://github.com/geyixin/PythonCoreProgramming3)
 本[Repository](https://github.com/geyixin/PythonCoreProgramming3)是我看Python Core Programming3（python核心编程3）中所学所感，谨以此Repository纪念学习此书学习历程。
 需要此书可以[跟我联系](https://github.com/geyixin/LeetCodeExercising/blob/master/README.md)。
 
