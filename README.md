@@ -15,9 +15,9 @@
 
 [第 4 章——多线程编程](https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter4)
 
-第5 章——GUI 编程
+[第5 章——GUI 编程](https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter5)
 
-第6 章——数据库编程
+[第6 章——数据库编程](https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter6)
 
 第7 章——Microsoft Office 编程
 
