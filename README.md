@@ -19,15 +19,7 @@
 
 [第6 章——数据库编程](https://github.com/geyixin/PythonCoreProgramming3/tree/master/chapter6)
 
-第7 章——Microsoft Office 编程
-
-第8 章——扩展Python
-
 ## 第二部分：Web 开发
-
-第9 章——Web 客户端和服务器
-
-第10 章——Web 编程：CGI 和WSGI
 
 第11 章——Web 框架：Django
 
